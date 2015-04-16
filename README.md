@@ -7,7 +7,7 @@ To Compile:
 ```
 make
 ```
-To Program on my Macbook:
+To Program on my Macbook (note: must temporarily disconnect Tx and Rx - pins 0 and 1 on the Arduino)
 ```
 make flash
 ```
