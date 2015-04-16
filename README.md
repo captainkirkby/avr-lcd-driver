@@ -22,3 +22,6 @@ Wiring
 					 \. . . . . . . . 3 *
 
 * Pin 3 of the LCD needs to be grounded too!!
+
+LCD datasheet
+https://www.digilentinc.com/Data/Products/PMOD-CLP/PmodCLP_rm_RevA.pdf
