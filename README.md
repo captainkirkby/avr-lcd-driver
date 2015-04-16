@@ -1,15 +1,16 @@
+##CPE 329 Project 1 - LCD Driver
 Dylan Kirkby
-CPE 329 Project 1 - LCD Driver
+
 4/15/15
 
 To Compile:
-
-	make
-
+```
+make
+```
 To Program on my Macbook:
-
-	make flash
-
+```
+make flash
+```
 Wiring
 
 	Arduino Uno Pins				LCD Pins
