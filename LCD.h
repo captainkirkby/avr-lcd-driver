@@ -73,6 +73,11 @@ void writeChar(uint8_t character)
 
 void writeString(char *string)
 {
+	// Clear the display
+	writeCMD(0b00000001);
+
+	_delay_ms(1);
+
 	while(*string != '\0')
 	{
 		writeChar(*string);
